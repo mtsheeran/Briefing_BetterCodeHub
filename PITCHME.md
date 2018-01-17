@@ -1,6 +1,6 @@
 # White
 
-### A GitPitch Presentation Template
+### A GitPitch Presentation Template 
 
 ---
 
